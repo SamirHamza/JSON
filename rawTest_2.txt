@@ -1,21 +1,21 @@
 [ 
     {
       "adsActivity":"main",
-      "BannerAdmob":"ca-app-pub-5407488668219485/4903127683",
-      "NativeAdmob":"ca-app-pub-5407488668219485/9389167609",
-      "InterstitialAdmob":"ca-app-pub5407488668219485/9368190143",
-      "BannerApplovin":"ca-app-pub-5407488668219485/4903127683",
-      "NativeApplovin":"ca-app-pub-5407488668219485/9389167609",
-      "InterstitialApplovin":"ca-app-pub5407488668219485/9368190143"
+      "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
+      "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
+      "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
+      "BannerApplovin":"7edae74f5e435c67",
+      "NativeApplovin":"d7df0678e853d2f5",
+      "InterstitialApplovin":"70f0906f2b6dbc50"
     },
   {
      "adsActivity":"gallery",
-      "BannerAdmob":"ca-app-pub-5407488668219485/4903127683",
-      "NativeAdmob":"ca-app-pub-5407488668219485/9389167609",
-      "InterstitialAdmob":"ca-app-pub5407488668219485/9368190143",
-      "BannerApplovin":"ca-app-pub-5407488668219485/4903127683",
-      "NativeApplovin":"ca-app-pub-5407488668219485/9389167609",
-      "InterstitialApplovin":"ca-app-pub5407488668219485/9368190143"
+      "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
+      "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
+      "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
+      "BannerApplovin":"7edae74f5e435c67",
+      "NativeApplovin":"d7df0678e853d2f5",
+      "InterstitialApplovin":"70f0906f2b6dbc50"
 
   }
   
