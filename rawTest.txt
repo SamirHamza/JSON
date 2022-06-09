@@ -1,0 +1,22 @@
+[ 
+    {
+      "adsActivity":"main",
+      "BannerAdmob":"ca-app-pub-5407488668219485/4903127683",
+      "NativeAdmob":"ca-app-pub-5407488668219485/9389167609",
+      "InterstitialAdmob":"ca-app-pub5407488668219485/9368190143",
+      "BannerApplovin":"ca-app-pub-5407488668219485/4903127683",
+      "NativeApplovin":"ca-app-pub-5407488668219485/9389167609",
+      "InterstitialApplovin":"ca-app-pub5407488668219485/9368190143"
+    },
+  {
+     "adsActivity":"gallery",
+      "BannerAdmob":"ca-app-pub-5407488668219485/4903127683",
+      "NativeAdmob":"ca-app-pub-5407488668219485/9389167609",
+      "InterstitialAdmob":"ca-app-pub5407488668219485/9368190143",
+      "BannerApplovin":"ca-app-pub-5407488668219485/4903127683",
+      "NativeApplovin":"ca-app-pub-5407488668219485/9389167609",
+      "InterstitialApplovin":"ca-app-pub5407488668219485/9368190143"
+
+  }
+  
+]
