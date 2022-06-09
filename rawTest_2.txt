@@ -38,7 +38,7 @@
      {
      "adsActivity":"whats",
      "adsNetwork":"admob",
-     "BannerAdmob":"ca-app-pub-3940256099942544/6300978111"
+     "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
      "BannerApplovin":"7edae74f5e435c67"
      },
      {
