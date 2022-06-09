@@ -12,7 +12,7 @@
      {
      "adsActivity":"gallery",
      "adsNetwork":"admob",
-     "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
+     "BannerAdmob":"ca-app-pub-3940256099942544/6300978100",
      "BannerApplovin":"7edae74f5e435c67"
      },
      {
