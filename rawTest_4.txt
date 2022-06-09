@@ -11,7 +11,7 @@
     },
 {
       "adsActivity":"gallery",
-      "adsNetwork":"admob",
+      "adsNetwork":"applovin",
       "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
       "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
       "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
@@ -40,7 +40,7 @@
       "InterstitialApplovin":"70f0906f2b6dbc50"
     },
 {
-      "adsActivity":"facebook",
+      "adsActivity":"applovin",
       "adsNetwork":"admob",
       "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
       "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
@@ -101,7 +101,7 @@
     },
 {
       "adsActivity":"insta",
-      "adsNetwork":"admob",
+      "adsNetwork":"applovin",
       "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
       "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
       "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
