@@ -11,8 +11,8 @@
       "BannerApplovin":"7edae74f5e435c67",
       "NativeApplovin":"d7df0678e853d2f5",
       "InterstitialApplovin":"70f0906f2b6dbc50",
-      "bannerAds" : "admob",
-      "nativeAds" : "admob",
+      "bannerAds" : "applovin",
+      "nativeAds" : "applovin",
       "intersAds" : "admob"
     },
 {
@@ -23,7 +23,7 @@
       "BannerApplovin":"7edae74f5e435c67",
       "NativeApplovin":"d7df0678e853d2f5",
       "InterstitialApplovin":"70f0906f2b6dbc50",
-      "bannerAds" : "admob",
+      "bannerAds" : "applovin",
       "nativeAds" : "admob",
       "intersAds" : "admob"
     },
@@ -48,7 +48,7 @@
       "NativeApplovin":"d7df0678e853d2f5",
       "InterstitialApplovin":"70f0906f2b6dbc50",
       "bannerAds" : "admob",
-      "nativeAds" : "admob",
+      "nativeAds" : "applovin",
       "intersAds" : "admob"
     },
 {
@@ -61,7 +61,7 @@
       "InterstitialApplovin":"70f0906f2b6dbc50",
       "bannerAds" : "admob",
       "nativeAds" : "admob",
-      "intersAds" : "admob"
+      "intersAds" : "applovin"
     },
 {
       "adsActivity":"whatsapp",
@@ -108,7 +108,7 @@
       "NativeApplovin":"d7df0678e853d2f5",
       "InterstitialApplovin":"70f0906f2b6dbc50",
       "bannerAds" : "admob",
-      "nativeAds" : "admob",
+      "nativeAds" : "applovin",
       "intersAds" : "admob"
     },
 {
@@ -132,7 +132,7 @@
       "NativeApplovin":"d7df0678e853d2f5",
       "InterstitialApplovin":"70f0906f2b6dbc50",
       "bannerAds" : "admob",
-      "nativeAds" : "admob",
+      "nativeAds" : "applovin",
       "intersAds" : "admob"
     }
 ]
