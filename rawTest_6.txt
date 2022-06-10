@@ -44,7 +44,7 @@
       "NativeApplovin":"d7df0678e853d2f5",
       "InterstitialApplovin":"70f0906f2b6dbc50",
       "bannerAds" : "applovin",
-      "nativeAds" : "admob",
+      "nativeAds" : "applovin",
       "intersAds" : "admob"
     },
 {
@@ -56,7 +56,7 @@
       "NativeApplovin":"d7df0678e853d2f5",
       "InterstitialApplovin":"70f0906f2b6dbc50",
       "bannerAds" : "admob",
-      "nativeAds" : "admob",
+      "nativeAds" : "applovin",
       "intersAds" : "admob"
     },
 {
