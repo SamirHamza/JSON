@@ -1,6 +1,6 @@
 {
 "AdmobId":"pub-5407488668219485",
-"OpenAdmob":"ca-app-pub-5407488668219485/5080927946",
+"OpenAdmob":"ca-app-pub-3940256099942544/3419835294",
 "cpaGiftLink":"https://www.instagram.com/",
 "AdUnits" : [ 
     {
