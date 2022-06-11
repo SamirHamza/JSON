@@ -55,13 +55,13 @@
       "adsActivity":"facebook",
       "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
       "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
-      "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
+      "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173700",
       "BannerApplovin":"7edae74f5e435c67",
       "NativeApplovin":"d7df0678e853d2f5",
       "InterstitialApplovin":"70f0906f2b6dbc50",
       "bannerAds" : "admob",
       "nativeAds" : "admob",
-      "intersAds" : "applovin"
+      "intersAds" : "admob"
     },
 {
       "adsActivity":"whatsapp",
