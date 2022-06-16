@@ -5,8 +5,8 @@
 "MainUnits":{
 	"admobInterstitial":"ca-app-pub-3940256099942544/1033173712",
 	"applovinInterstitial":"70f0906f2b6dbc50",
-	"facebookButton":"admob",
-	"whatsappButton":"applovin",
+	"facebookButton":"applovin",
+	"whatsappButton":"admob",
 	"instaButton":"admob",
 	"twitterButton":"applovin",
 	"tiktokButton":"admob",
