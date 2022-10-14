@@ -10,10 +10,10 @@
 	"whatsappButton":"admob",
 	"instaButton":"admob",
 	"twitterButton":"applovin",
-	"tiktokButton":"admob",
+	"tiktokButton":"ironsource",
 	"likeeButton":"applovin",
 	"gelleryButton":"admob",
-	"aboutButton":"admob"
+	"aboutButton":"ironsource"
 },
 "AdUnits" : [ 
     {
@@ -24,7 +24,7 @@
       "BannerApplovin":"7edae74f5e435c67",
       "NativeApplovin":"d7df0678e853d2f5",
       "InterstitialApplovin":"70f0906f2b6dbc50",
-      "bannerAds" : "applovin",
+      "bannerAds" : "ironsource",
       "nativeAds" : "applovin",
       "intersAds" : "admob"
     },
