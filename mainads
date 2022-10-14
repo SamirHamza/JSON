@@ -2,7 +2,7 @@
 "AdmobId":"pub-5407488668219485",
 "IronSourceAppKey":"16dbc8385",
 "OpenAdmob":"ca-app-pub-3940256099942544/3419835294",
-"cpaGiftLink":"https://www.google.com/",
+"cpaGiftLink":"",
 "MainUnits":{
 	"admobInterstitial":"ca-app-pub-3940256099942544/1033173712",
 	"applovinInterstitial":"70f0906f2b6dbc50",
