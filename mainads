@@ -28,7 +28,7 @@
       "InterstitialApplovin":"70f0906f2b6dbc50",
       "BannerUnity":"Banner_Android",
       "InterstitialUnity":"Interstitial_Android",
-      "bannerAds" : "admob",
+      "bannerAds" : "applovin",
       "nativeAds" : "admob",
       "intersAds" : "admob"
     },
