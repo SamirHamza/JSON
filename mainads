@@ -9,13 +9,13 @@
 	"applovinInterstitial":"70f0906f2b6dbc50",
 	"unityInterstitial":"Interstitial_Android",
 	"facebookButton":"unity",
-	"whatsappButton":"admob",
-	"instaButton":"applovin",
-	"twitterButton":"ironsource",
+	"whatsappButton":"unity",
+	"instaButton":"unity",
+	"twitterButton":"unity",
 	"tiktokButton":"unity",
-	"likeeButton":"admob",
-	"gelleryButton":"applovin",
-	"aboutButton":"ironsource"
+	"likeeButton":"unity",
+	"gelleryButton":"unity",
+	"aboutButton":"unity"
 },
 "AdUnits" : [ 
     {
@@ -28,8 +28,8 @@
       "InterstitialApplovin":"70f0906f2b6dbc50",
       "BannerUnity":"Banner_Android",
       "InterstitialUnity":"Interstitial_Android",
-      "bannerAds" : "applovin",
-      "nativeAds" : "admob",
+      "bannerAds" : "unity",
+      "nativeAds" : "unity",
       "intersAds" : "unity"
     },
 {
@@ -43,8 +43,8 @@
       "BannerUnity":"Banner_Android",
       "InterstitialUnity":"Interstitial_Android",
       "bannerAds" : "unity",
-      "nativeAds" : "admob",
-      "intersAds" : "admob"
+      "nativeAds" : "unity",
+      "intersAds" : "unity"
     },
 {
       "adsActivity":"howto",
@@ -56,9 +56,9 @@
       "InterstitialApplovin":"70f0906f2b6dbc50",
       "BannerUnity":"Banner_Android",
       "InterstitialUnity":"Interstitial_Android",
-      "bannerAds" : "ironsource",
-      "nativeAds" : "admob",
-      "intersAds" : "admob"
+      "bannerAds" : "unity",
+      "nativeAds" : "unity",
+      "intersAds" : "unity"
     },
 {
       "adsActivity":"about",
@@ -71,8 +71,8 @@
       "BannerUnity":"Banner_Android",
       "InterstitialUnity":"Interstitial_Android",
       "bannerAds" : "unity",
-      "nativeAds" : "applovin",
-      "intersAds" : "admob"
+      "nativeAds" : "unity",
+      "intersAds" : "unity"
     },
 {
       "adsActivity":"facebook",
@@ -84,9 +84,9 @@
       "InterstitialApplovin":"70f0906f2b6dbc50",
       "BannerUnity":"Banner_Android",
       "InterstitialUnity":"Interstitial_Android",
-      "bannerAds" : "admob",
-      "nativeAds" : "admob",
-      "intersAds" : "admob"
+      "bannerAds" : "unity",
+      "nativeAds" : "unity",
+      "intersAds" : "unity"
     },
 {
       "adsActivity":"whatsapp",
@@ -98,9 +98,9 @@
       "InterstitialApplovin":"70f0906f2b6dbc50",
       "BannerUnity":"Banner_Android",
       "InterstitialUnity":"Interstitial_Android",
-      "bannerAds" : "admob",
-      "nativeAds" : "admob",
-      "intersAds" : "admob"
+      "bannerAds" : "unity",
+      "nativeAds" : "unity",
+      "intersAds" : "unity"
     },
 {
       "adsActivity":"help",
@@ -112,9 +112,9 @@
       "InterstitialApplovin":"70f0906f2b6dbc50",
       "BannerUnity":"Banner_Android",
       "InterstitialUnity":"Interstitial_Android",
-      "bannerAds" : "admob",
-      "nativeAds" : "admob",
-      "intersAds" : "admob"
+      "bannerAds" : "unity",
+      "nativeAds" : "unity",
+      "intersAds" : "unity"
     },
 {
       "adsActivity":"likee",
@@ -126,9 +126,9 @@
       "InterstitialApplovin":"70f0906f2b6dbc50",
       "BannerUnity":"Banner_Android",
       "InterstitialUnity":"Interstitial_Android",
-      "bannerAds" : "admob",
-      "nativeAds" : "admob",
-      "intersAds" : "admob"
+      "bannerAds" : "unity",
+      "nativeAds" : "unity",
+      "intersAds" : "unity"
     },
 {
       "adsActivity":"tiktok",
@@ -140,9 +140,9 @@
       "InterstitialApplovin":"70f0906f2b6dbc50",
       "BannerUnity":"Banner_Android",
       "InterstitialUnity":"Interstitial_Android",
-      "bannerAds" : "admob",
-      "nativeAds" : "applovin",
-      "intersAds" : "admob"
+      "bannerAds" : "unity",
+      "nativeAds" : "unity",
+      "intersAds" : "unity"
     },
 {
       "adsActivity":"twitter",
@@ -154,9 +154,9 @@
       "InterstitialApplovin":"70f0906f2b6dbc50",
       "BannerUnity":"Banner_Android",
       "InterstitialUnity":"Interstitial_Android",
-      "bannerAds" : "admob",
-      "nativeAds" : "admob",
-      "intersAds" : "admob"
+      "bannerAds" : "unity",
+      "nativeAds" : "unity",
+      "intersAds" : "unity"
     },
 {
       "adsActivity":"insta",
@@ -168,9 +168,9 @@
       "InterstitialApplovin":"70f0906f2b6dbc50",
       "BannerUnity":"Banner_Android",
       "InterstitialUnity":"Interstitial_Android",
-      "bannerAds" : "admob",
-      "nativeAds" : "applovin",
-      "intersAds" : "admob"
+      "bannerAds" : "unity",
+      "nativeAds" : "unity",
+      "intersAds" : "unity"
     }
 ]
 }
