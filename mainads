@@ -10,11 +10,11 @@
 	"unityInterstitial":"Interstitial_Android",
 	"facebookButton":"unity",
 	"whatsappButton":"admob",
-	"instaButton":"unity",
-	"twitterButton":"applovin",
-	"tiktokButton":"ironsource",
-	"likeeButton":"applovin",
-	"gelleryButton":"admob",
+	"instaButton":"applovin",
+	"twitterButton":"ironsource",
+	"tiktokButton":"unity",
+	"likeeButton":"admob",
+	"gelleryButton":"applovin",
 	"aboutButton":"ironsource"
 },
 "AdUnits" : [ 
@@ -30,7 +30,7 @@
       "InterstitialUnity":"Interstitial_Android",
       "bannerAds" : "applovin",
       "nativeAds" : "admob",
-      "intersAds" : "admob"
+      "intersAds" : "unity"
     },
 {
       "adsActivity":"gallery",
